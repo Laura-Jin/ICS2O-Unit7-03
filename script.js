@@ -1,7 +1,7 @@
 // Connects the button 'verify' to the function 'verifyAge'
 document.getElementById('verify').addEventListener('click', verifyAge)
 
-//Creates a variable named age and sets it to 0
+// Creates a variable named age and sets it to 0
 let age = 0
 
 function verifyAge () {
